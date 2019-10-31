@@ -1,7 +1,7 @@
-#include <stdio.h>
+п»ї#include <stdio.h>
 int main()
 {
-	//изменения в мастере
+	//РёР·РјРµРЅРµРЅРёСЏ РІ РјР°СЃС‚РµСЂРµ
 	printf("Hello Yula\n");
 	system("pause");
 	return;
